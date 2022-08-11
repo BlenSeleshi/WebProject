@@ -1,0 +1,63 @@
+body {
+  background-image: url(
+    "zeyan-loh-HBVGM43Rd_w-unsplash.jpg"
+  );
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+  }
+  form {
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #ffff;
+    border-radius: 8px;
+    border: 6px solid #f5e4ac;
+  }
+  h2 {
+    color: black;
+    margin: 0 0 30px 0;
+    text-align: center;
+  }
+  fieldset {
+    margin-bottom: 30px;
+    border: none;
+  }
+  
+  legend {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 6px;
+  }
+  
+  label.light {
+    font-weight: 5000;
+    display: inline;
+  }
+  button {
+    padding: 15px 35px 13px 35px;
+    color: #FFF;
+    background-color: #d4af37;
+    font-size: 15px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid #d4af37;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+  }
+
+  input[type="text"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 12px 6px;
+  margin: 5px 0;
+  display: block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}

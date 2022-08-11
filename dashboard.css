@@ -1,0 +1,30 @@
+.container{
+    background-color: thistle;
+    
+}
+.title{
+ 
+    text-align: center;
+}
+.navbar{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div{
+ padding: 20px;
+}
+section{
+    
+    display: flex;
+    flex-direction: row;
+}
+span{
+    color: brown;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
